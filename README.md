@@ -1,2 +1,2 @@
-# ao3-assets2
+# ao3-assets
 for viewing
